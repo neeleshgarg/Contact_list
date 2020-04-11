@@ -1,0 +1,21 @@
+{
+  "name": "project-contactlist",
+  "version": "1.0.0",
+  "description": "a contact list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neelesh garg",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^9.1.1",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.3"
+  }
+}
